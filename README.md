@@ -1,2 +1,2 @@
 # sciverse-paper-finder
-SCIverse
+SCIverse for researchers
